@@ -11,6 +11,16 @@
     width: 20%;
 }
 
+.logo {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    overflow: hidden;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
 .form__field {
     font-family: inherit;
     width: 100%;
